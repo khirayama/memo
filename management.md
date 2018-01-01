@@ -8,9 +8,9 @@
 
 ## ポッドキャスト
 
-- 126: Anti-Democratic Product Management (higepon) http://rebuild.fm/126/
 - 98: Superhumans Wanted (Naoya Ito) http://rebuild.fm/98/
 - 123: The Grail Dialogue (Naoya Ito) http://rebuild.fm/123/
+- 126: Anti-Democratic Product Management (higepon) http://rebuild.fm/126/
 
 ## リンク
 
