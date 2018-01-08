@@ -20,6 +20,7 @@
 - Google：マネージャはやはり重要な存在である https://www.infoq.com/jp/news/2017/02/google-managers
 - ベンチャー企業のガバナンスモデル http://startupinnovators.jp/blog/78/
 - プロジェクトマネージャーが知っておくべき3つの観点とは？ https://goodpatch.com/blog/basic-process-of-project/
+- 天才でなくていい！『Team Geek』訳者・角 征典と考える、チームに貢献するエンジニアの気配り力 https://employment.en-japan.com/engineerhub/entry/2017/12/20/110000
 
 ## メモ
 
